@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-👋 Hi, I'm <strong>Vihan</strong><br><br>
+👋 Hi, I'm <strong>Vihan</strong><br>
 ⚡ In my free time I create videos, explore new tech, and build projects
 </p>
 
