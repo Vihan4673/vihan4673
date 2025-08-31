@@ -32,8 +32,6 @@
 
 <p align="left">
 👋 Hi, I'm <strong>Vihan</strong><br><br>
-🔭 I’m currently working on Java and Web Development projects<br>
-📚 I'm currently learning Spring Boot and React<br>
 ⚡ In my free time I create videos, explore new tech, and build projects
 </p>
 
