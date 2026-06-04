@@ -51,8 +51,8 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vihan-vimen&theme=dark&hide_border=false&border_radius=5&mode=daily" height="220" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vihan-vimen&theme=dark&hide_border=false&border_radius=5&mode=daily" height="220" alt="GitHub Streak Stats" />
 </div>
